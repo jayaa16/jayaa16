@@ -1,4 +1,4 @@
-# Hi, 👋 I’m @jayaa16
+# Hi, 👋 I’m jaya
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on frontend projects
